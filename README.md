@@ -1,0 +1,2 @@
+# Loan-Data-Analysis
+In this project we are considering existing customers loan information to predict new customers loan amount fulfilment. This model will help banks, to avoid fraud customers in future. we are considering Pyspark for ETL operations and MongoDB for storage of this transform data. We are considering Machine Learning algorithms (Random Forest Classifier, Logistic Regression,Decision Tree Classifier,KNeighbors Classifier) for predictive analysis and Tableau for graphical data analysis
